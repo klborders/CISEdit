@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CISEdit", "CISEdit\CISEdit.csproj", "{BDF456CF-1BD1-40F7-B3F0-A5D7CE276399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF456CF-1BD1-40F7-B3F0-A5D7CE276399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF456CF-1BD1-40F7-B3F0-A5D7CE276399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF456CF-1BD1-40F7-B3F0-A5D7CE276399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF456CF-1BD1-40F7-B3F0-A5D7CE276399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14876C0A-9175-4473-8957-10E2461758CF}
+	EndGlobalSection
+EndGlobal
